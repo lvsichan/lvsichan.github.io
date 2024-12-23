@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from Nankai University(https://www.nankai.edu.cn/). My research interest includes reinforcement learning, machine learning, and computer graphic.
+I am a master student of TMCC, College of Computer Science, Nankai University, China. My research interests are reinforcement learning and computer graphic, focusing on fluid simulation and motion control.
