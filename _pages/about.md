@@ -15,7 +15,8 @@ I am a master student at the College of Computer Science, Nankai University, Chi
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
