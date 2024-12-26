@@ -11,7 +11,7 @@ redirect_from:
 I am a master student at the College of Computer Science, Nankai University, China. My research interests are reinforcement learning and computer graphics, with a focus on fluid simulation and motion control.
 
 
-# Publications
+<!-- # Publications
 
 {% include base_path %}
 
@@ -19,4 +19,4 @@ I am a master student at the College of Computer Science, Nankai University, Chi
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
